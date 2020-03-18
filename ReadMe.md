@@ -1,5 +1,5 @@
 # Team 3
-##topics: Permissions, owner, group and other, setting Permission and seeing
+## topics: Permissions, owner, group and other, setting Permission and seeing
 
 #### Permission
   - how do they work - explain the binary
