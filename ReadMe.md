@@ -27,4 +27,15 @@ Permissions work by the user changing the Permissions for a file in which they c
  - `+` Grants the user Permission
  - `=` Sets Permission and removes other Permissions
 
+
+## Binary
+
+0: (`000`) No permission.
+1: (`001`) Execute permission.
+2: (`010`) Write permission.
+3: (`011`) Write and execute permissions.
+4: (`100`) Read permission.
+5: (`101`) Read and execute permissions.
+6: (`110`) Read and write permissions.
+7: (`111`) Read, write, and execute permissions.
  
